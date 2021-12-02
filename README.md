@@ -26,7 +26,7 @@ print("Eigen values are",values,"and Eigen Vectors are", vectors,)
 ~~~
 
 ## Output:
-![OUTPUT]()
+![OUTPUT](https://github.com/Hp9806/EIGENVALUES-AND-EIGENVECTORS/blob/main/EIGEN%20VALUES%20HARI.png?raw=true)
 
 
 ## Result:
